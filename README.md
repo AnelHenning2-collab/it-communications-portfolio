@@ -1,7 +1,7 @@
 # IT Communications Portfolio
 ### Technical Storytelling · Internal Communications · Content Design
 
-**Anél Henning** — IT Communication Specialist | Tampa, FL (Remote)
+**Anèl Henning** — IT Communication Specialist | Tampa, FL (Remote)
 logicalcoders@outlook.com | 813.743.1661
 [Portfolio Site](https://anelhenning2-collab.github.io/ux-cybersecurity-portfolio) · [Behance](https://www.behance.net/anellehenning)
 
@@ -341,7 +341,7 @@ Today is the day. Microsoft 365 is now your primary platform for email, document
 
 ## About
 
-**Anél Henning** — IT Communication Specialist · UX Designer · Digital Product Designer
+**Anèl Henning** — IT Communication Specialist · UX Designer · Digital Product Designer
 MS Cybersecurity (Purdue Global, 2026) · BFA Graphic Design (MICA) · BS Computer Science
 HIPAA Business Associate Certified · ISC2 Member · ISACA Member
 Based in Tampa, FL — Available Remote
