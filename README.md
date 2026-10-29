@@ -342,7 +342,7 @@ Today is the day. Microsoft 365 is now your primary platform for email, document
 ## About
 
 **Anèl Henning** — IT Communication Specialist · UX Designer · Digital Product Designer
-MS Cybersecurity (Purdue Global, 2026) · BFA Graphic Design (MICA) · BS Computer Science
+MS Cybersecurity Management (Purdue Global, 2026) · BFA Graphic Design (MICA) · BS Computer Science
 HIPAA Business Associate Certified · ISC2 Member · ISACA Member
 Based in Tampa, FL — Available Remote
 
